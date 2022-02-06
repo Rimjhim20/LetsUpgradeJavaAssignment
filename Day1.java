@@ -1,4 +1,4 @@
-//James Gosling - Father of ja🧛 
+//James Gosling - Father of java 
 //Cab Fare System Project.
 
 // Java follows OOP methodology
